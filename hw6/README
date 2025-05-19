@@ -1,0 +1,6 @@
+For this project, I wrote unit tests for a Graph ADT, then implemented a SparseGraph using an
+incidencelist to handle sparse data efficiently. I also implemented Dijkstra’s algorithm to find
+the shortest paths in a real street map of Baltimore. I tested my solution with a small campus
+map and larger street datasets, and used runtime and memory profilers to measure performance.
+This homework helped me understand how to design graph structures, apply shortest-path algorithms,
+and debug and evaluate real-world pathfinding problems.
