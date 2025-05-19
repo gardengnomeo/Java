@@ -1,0 +1,4 @@
+For this project, I implemented a SparseIndexedList in Java that stores only values different from a default value to save
+memory. I used a linked list to keep track of non-default elements and wrote methods like get, put, and length to behave
+like a regular list. I also created unit tests to check core operations and make sure the iterator works correctly. This
+project helped me practice linked structures, nested classes, and writing efficient and organized code.
