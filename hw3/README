@@ -1,0 +1,6 @@
+For this project, I built a MeasuredIndexedList that tracks how many times list elements are accessed or
+changed. I then used it to test and compare different sorting algorithms like bubble sort, selection sort,
+and insertion sort with a minimizing swaps optimization. I also created two Set implementations that use
+search heuristics—move-to-front and transpose—to try to make searches faster, and tested their performance
+using the JMH benchmarking tool. This project helped me better understand sorting behavior, how to measure
+algorithm performance, and how heuristics can affect search efficiency.
