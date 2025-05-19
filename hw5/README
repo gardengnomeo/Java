@@ -1,0 +1,7 @@
+For this project, I built two hash table implementations in Java: one using chaining and the
+other using open addressing. I added resizing and rehashing logic to keep them efficient and
+tested their performance using a search engine called JHUgle and JMH benchmarking tools. I
+experimented with probing strategies, load factors, and prime-sized tables to tune performance
+and compared how each handled different data files. This project helped me understand the
+trade-offs between different hashing methods and how to optimize data structures for speed and
+memory use.
