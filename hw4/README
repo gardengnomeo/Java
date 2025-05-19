@@ -1,0 +1,6 @@
+For this project, I implemented three data structures: an AVL tree, a Treap, and a binary heap-based
+priority queue. I wrote unit tests to make sure each structure worked correctly and followed the
+expected rules for balancing and heap order. I then used the JMH benchmarking tool to compare how the
+AVL tree and Treap performed with real data, and I analyzed strategies for solving the selection problem
+efficiently. This homework helped me understand self-balancing trees, priority queues, and how to test and
+measure the performance of complex data structures.
