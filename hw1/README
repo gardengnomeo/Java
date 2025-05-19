@@ -1,0 +1,5 @@
+For this project, I implemented Flappy Box, a simplified Flappy Bird-style game in Java using object-oriented principles.
+I completed and tested key game mechanics such as jumping, falling, collision detection, and scoring, and organized the
+game using multiple classes like FlappyBox, Pipe, and Game. I also ensured the game complied with style guidelines, ran
+smoothly with accurate collision logic, and ended appropriately based on game events. This project helped reinforce my
+understanding of class design, inheritance, and dynamic behavior in Java.
